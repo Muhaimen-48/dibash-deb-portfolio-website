@@ -72,42 +72,42 @@ export const cvData = {
       journal: "Water International",
       year: "2025",
       authors: "Mozumder, M. M. H., Schneider, P., & Deb, D.",
-      link: "https://www.tandfonline.com/journals/rwin20"
+      link: "https://www.tandfonline.com/doi/epdf/10.1080/02508060.2025.2535928?needAccess=true"
     },
     {
       title: "Coastal Vulnerability Assessment to Multi Hazards in The Exposed Coast of Southeastern Coastal Region of Bangladesh",
       journal: "Regional Studies in Marine Science",
       year: "2024",
       authors: "Deb, D., Uddin, M. M., Kibria, A. S. M., Das, M. K., and Hasan, M.",
-      link: "https://www.sciencedirect.com/journal/regional-studies-in-marine-science"
+      link: "https://www.sciencedirect.com/science/article/abs/pii/S2352485524001178"
     },
     {
       title: "A GIS-based integrated study assessing the socio-physical vulnerability of the south-central and south-western coastal regions of Bangladesh",
       journal: "GeoJournal",
       year: "2024",
       authors: "Hasan, M., Uddin, M. M., ... & Deb, D.",
-      link: "https://www.springer.com/journal/10708"
+      link: "https://link.springer.com/article/10.1007/s10708-024-11185-5"
     },
     {
       title: "Bridging the gap: enhancing socio-ecological resilience by breaking the debt cycle among small-scale hilsa fishers",
       journal: "Maritime Studies",
       year: "2024",
       authors: "Mozumder, M. M. H., ... Deb, D., et al.",
-      link: "https://maritimestudies.springeropen.com/"
+      link: "https://link.springer.com/article/10.1007/s40152-024-00355-3"
     },
     {
       title: "Climate change adaptation strategies for small-scale Hilsa fishers in the coastal area of Bangladesh",
       journal: "Frontiers in Marine Science",
       year: "2023",
       authors: "Mozumder, M. M. H., ... Deb, D., et al.",
-      link: "https://www.frontiersin.org/journals/marine-science"
+      link: "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1151875/full"
     },
     {
       title: "Governance of Illegal, unreported, and unregulated (IUU) fishing in Bangladesh",
       journal: "Frontiers in Marine Science",
       year: "2023",
       authors: "Mozumder, M. M. H., ... Deb, D., et al.",
-      link: "https://www.frontiersin.org/journals/marine-science"
+      link: "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1150213/full"
     }
   ],
   skills: {
