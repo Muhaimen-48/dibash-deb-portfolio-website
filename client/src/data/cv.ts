@@ -4,7 +4,7 @@ export const cvData = {
     name: "Dibash Deb",
     title: "Oceanographer | Erasmus Mundus Scholar",
     email: "dibashdeb04@gmail.com",
-    location: "Liège, Belgium",
+    location: "Kämnerintie 4 A 23B, 00750 Helsinki, Finland",
     summary: "A proactive and data-driven Oceanographer with a strong track record in socio-ecological research, small-scale fisheries (SSF), GIS-based vulnerability assessment, and climate modeling (WRF). Currently an Erasmus Mundus Scholar in Marine Environment (MER2030).",
     social: {
       linkedin: "https://linkedin.com", // Placeholder
