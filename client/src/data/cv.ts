@@ -281,8 +281,8 @@ export const cvData = {
     { lat: 43.2630, lng: -2.9350, title: "University of the Basque Country", description: "Erasmus Mundus Semester" },
     { lat: 50.6326, lng: 5.5797, title: "University of Liège", description: "Erasmus Mundus Semester" },
     { lat: 42.5688, lng: 8.7569, title: "STARESO, Calvi", description: "Summer Internship (Marine Research)" }
-    { lat: 12.946656, lng: 80.211007, title: "National Institute of Ocean Technology (NIOT)", description: "Formed November 1993, Chennai, Tamil Nadu, India; Ministry of Earth Sciences; Director: Prof. Balaji Ramakrishnan; www.niot.res.in" }
-    { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland; founded in 1640; oldest and largest university in Finland" }
+    { lat: 12.946656, lng: 80.211007, title: "National Institute of Ocean Technology (NIOT)", description: "Formed November 1993, Chennai, Tamil Nadu, India; Ministry of Earth Sciences; Director: Prof. Balaji Ramakrishnan; www.niot.res.in" },
+    { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland; founded in 1640; oldest and largest university in Finland" },
   ],
   gallery: [
     {
