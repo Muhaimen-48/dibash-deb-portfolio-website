@@ -5,7 +5,7 @@ export const cvData = {
     title: "Oceanographer | Erasmus Mundus Scholar",
     email: "dibashdeb04@gmail.com",
     location: "Kämnerintie 4 A 23B, 00750 Helsinki, Finland",
-    summary: "A proactive and data-driven Oceanographer with a strong track record in socio-ecological research, small-scale fisheries (SSF), GIS-based vulnerability assessment, and climate modeling (WRF). Currently an Erasmus Mundus Scholar in Marine Environment (MER2030).",
+    summary: "Dynamic, data-driven oceanographer specializing in soil and sediment carbon–nitrogen dynamics, with expertise in GIS-based vulnerability assessment and Regional Climate Modeling (WRF). My research focuses on aquatic biogeochemistry, sediment carbon sequestration, and nutrient cycling, while also examining fisheries and sustainable small-scale fisheries (SSF) to support resilient coastal ecosystems and climate-informed management.",
     social: {
       linkedin: "https://linkedin.com", // Placeholder
       researchgate: "https://researchgate.net", // Placeholder
@@ -45,7 +45,7 @@ export const cvData = {
       role: "Summer Intern",
       organization: "STARESO, Calvi, France",
       year: "Summer 2025",
-      description: "Supported scientific tasks for marine and coastal research activities."
+      description: "Supported scientific tasks for marine and coastal research activities. Conducted laboratory biometry analysis on Mediterranean Posidonia oceanica seagrass. Analyzing this vital blue carbon sink, particularly its underlying sediment (matte), provided me with highly transferable, hands-on experience in empirical carbon flux analysis.",
     },
     {
       role: "Research Assistant",
@@ -54,15 +54,21 @@ export const cvData = {
       description: "Conducted literature reviews on socio-ecological systems, prepared research designs, and performed field data collection."
     },
     {
+      role: "Researcher",
+      organization: "National Oceanographic and Maritime Institute (NOAMI), Bangladesh",
+      year: "Jan 2023 - Mar 2024",
+      description: "Conducted literature reviews and fieldwork, facilitated online and offline programs, and supported diverse research activities, including numerical modeling and GIS analysis. Helped to train internship participants from various universities and provided guidance regarding research.",
+    },
+    {
       role: "Research Assistant",
       organization: "Coastal Ocean Observation and Prediction Lab (COOPLab), CU",
-      year: "Jan 2021 – Jan 2024",
+      year: "Jan 2021 – Dec 2023",
       description: "Data analysis, lab management, and training of new research students. Performed physico-chemical parameters testing."
     },
     {
       role: "Youth Committee Member",
       organization: "Asia Marine Educators Association (AMEA), Japan",
-      year: "Aug 2022 – Present",
+      year: "Aug 2022 – Aug 2024",
       description: "Developing marine education and ocean literacy programs for youth."
     }
   ],
@@ -111,9 +117,9 @@ export const cvData = {
     }
   ],
   skills: {
-    technical: ["GIS & Remote Sensing (ArcGIS, SNAP, SeaDAS)", "Python", "R", "IBM SPSS", "WRF Model", "Data Analysis", "NVivo", "Adobe Illustrator", "Canva"],
-    languages: ["Bengali (Native)", "English (C1)", "Spanish (A1)"],
-    tools: ["Microsoft Office (Word, PowerPoint, Excel)", "ArcGIS", "SNAP", "SeaDAS", "Python", "R", "IBM SPSS", "NVivo", "Adobe Illustrator", "Canva", "WRF Model", "Mendeley"],
+    technical: ["GIS & Remote Sensing (ArcGIS, SNAP, SeaDAS, Hyperspectral Reflectance Spectroscopy)", "Python", "R", "IBM SPSS", "WRF Model", "Data Analysis", "NVivo", "Adobe Illustrator", "Canva"],
+    languages: ["Bengali (Native)", "English (C1)", "Spanish (A1-basic)", "French (A1-basic)"],
+    tools: ["Microsoft Office (Word, PowerPoint, Excel)", "ArcGIS", "SNAP", "SeaDAS", "Python", "R", "IBM SPSS", "NVivo", "Canva", "WRF Model", "Mendeley"],
     softSkills: ["Decision Making", "Public Speaking", "Influencing", "Team Management", "Scientific Writing", "Data Visualization", "Project Management"]
   },
   leadership: [
