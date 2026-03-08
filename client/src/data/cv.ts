@@ -284,31 +284,31 @@ export const cvData = {
     { lat: 12.946656, lng: 80.211007, title: "National Institute of Ocean Technology (NIOT)", description: "Formed November 1993, Chennai, Tamil Nadu, India; Ministry of Earth Sciences; Director: Prof. Balaji Ramakrishnan; www.niot.res.in" },
     { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland; founded in 1640; oldest and largest university in Finland" },
   ],
-  gallery: [
+gallery: [
     {
-      src: new URL("@assets/generated_images/field_work_water_sampling.png", import.meta.url).href,
-      title: "Field Research",
-      description: "Conducting water sample collection during marine field research expeditions in coastal regions."
+      src: "/Physical Oceanography Survey.jpeg", 
+      title: "Physical Oceanography Survey",
+      description: "A floating platform equipped with an Acoustic Doppler Current Profiler (ADCP) was prepared and deployed aboard the French research vessel Côtes de la Manche during a physical oceanography survey in the Gironde Estuary, the largest estuary in Europe."
     },
     {
-      src: new URL("@assets/generated_images/gis_research_lab_work.png", import.meta.url).href,
-      title: "GIS Laboratory",
-      description: "Analyzing geospatial data and vulnerability assessments using advanced GIS technology."
+      src: "/Marine Field Research Expeditions.jpeg",
+      title: "Marine Field Research Expeditions",
+      description: "Water sampling, zooplankton collection, and surveys of seagrass meadow–associated fauna and flora were conducted during marine field research expeditions in the Bay of Arcachon, France."
     },
     {
-      src: new URL("@assets/generated_images/coastal_mangrove_ecosystem.png", import.meta.url).href,
-      title: "Coastal Ecosystems",
-      description: "Studying mangrove forests and their crucial role in coastal protection and biodiversity."
+      src: "/Scientific Diving and Biodiversity Monitoring.jpeg",
+      title: "Scientific Diving and Biodiversity Monitoring",
+      description: "Snorkeling and scientific diving activities were carried out for biodiversity monitoring of Mediterranean seagrass meadows at the STARESO Research Station in Corsica, France."
     },
     {
-      src: new URL("@assets/generated_images/academic_conference_presentation.png", import.meta.url).href,
-      title: "Academic Presentations",
-      description: "Sharing research findings at international oceanography and coastal science conferences."
+      src: "/Ecological Quality Assessment.jpeg",
+      title: "Ecological Quality Assessment",
+      description: "Quadrat-based biodiversity assessments of rocky intertidal communities were conducted as part of an Ecological Quality Assessment of Coastal Ecosystems at two coastal sites near Bilbao (Spain) - one impacted by pollution and the other relatively unpolluted."
     },
     {
-      src: new URL("@assets/generated_images/underwater_marine_biodiversity.png", import.meta.url).href,
-      title: "Marine Biodiversity",
-      description: "Documenting underwater ecosystems and marine species for conservation and research purposes."
+      src: "/Laboratory Research in Comparative Endocrinology.jpeg",
+      title: "Laboratory Research in Comparative Endocrinology",
+      description: "Laboratory research in comparative endocrinology and endocrine disruption in aquatic animals was conducted at AZTI Pasaia, a Spanish-based international science and technology center specializing in marine environment and food research."
     }
-  ]
+  ],
 };
