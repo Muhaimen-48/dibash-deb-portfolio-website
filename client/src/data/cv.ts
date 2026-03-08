@@ -118,7 +118,7 @@ export const cvData = {
   ],
   skills: {
     technical: ["GIS & Remote Sensing (ArcGIS, SNAP, SeaDAS, Hyperspectral Reflectance Spectroscopy)", "Python", "R", "IBM SPSS", "WRF Model", "Data Analysis", "NVivo", "Adobe Illustrator", "Canva"],
-    languages: ["Bengali (Native)", "English (C1)", "Spanish (A1-basic)", "French (A1-basic)"],
+    languages: ["Bengali (Native)", "English (C1-Advanced)", "Spanish (A1-Basic)", "French (A1-Basic)"],
     tools: ["Microsoft Office (Word, PowerPoint, Excel)", "ArcGIS", "SNAP", "SeaDAS", "Python", "R", "IBM SPSS", "NVivo", "Canva", "WRF Model", "Mendeley"],
     softSkills: ["Decision Making", "Public Speaking", "Influencing", "Team Management", "Scientific Writing", "Data Visualization", "Project Management"]
   },
