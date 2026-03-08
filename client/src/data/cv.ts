@@ -15,7 +15,7 @@ export const cvData = {
   education: [
     {
       degree: "Erasmus Mundus Joint Master's Degree in Marine Environment (MER2030)",
-      institution: "Univ. of Bordeaux (FR), Univ. of Basque Country (ES), Univ. of Liège (BE)",
+      institution: "Univ. of Bordeaux (FR), Univ. of Basque Country (ES), Univ. of Liège (BE), University of Helsinki",
       year: "2024 – Present",
       description: "Specialized training in marine environment conservation and management across three European universities."
     },
