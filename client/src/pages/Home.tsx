@@ -13,7 +13,6 @@ import Footer from "@/components/Footer";
 import { cvData } from "@/data/cv";
 import { Badge } from "@/components/ui/badge";
 import { Mail, MapPin } from "lucide-react";
-import profilePic from "@assets/Deb_Photo_1767011188623.jpg";
 
 export default function Home() {
   return (
@@ -28,7 +27,7 @@ export default function Home() {
           <div className="flex justify-center mb-8 md:mb-0 md:flex-shrink-0">
             <div className="relative w-64 h-64 rounded-full overflow-hidden shadow-xl border-4 border-primary/20 hover:border-primary transition-all duration-300 group">
               <img
-                src={profilePic}
+                src="/Dibash Picture 2026.png"
                 alt="Dibash Deb"
                 className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
               />
