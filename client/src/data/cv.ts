@@ -1,4 +1,3 @@
-
 export const cvData = {
   personal: {
     name: "Dibash Deb",
@@ -18,6 +17,13 @@ export const cvData = {
       institution: "University of Bordeaux (FRANCE), University of Basque Country (SPAIN), University of Liège (BELGIUM), University of Helsinki (FINLAND)",
       year: "2024 – Present",
       description: "Specialized training in marine environment conservation and management across three European universities."
+    },
+    {
+      degree: "Master's Thesis",
+      institution: "University of Helsinki, Finland",
+      year: "2025 – 2026",
+      description: "Thesis: Use of hyperspectral spectroscopy for determination of sediment properties in Baltic Sea",
+      link: "https://researchportal.helsinki.fi/en/activities/deb-d-2026-use-of-hyperspectral-spectroscopy-for-determination-of/"
     },
     {
       degree: "MS in Oceanography",
@@ -45,7 +51,7 @@ export const cvData = {
       role: "Summer Intern",
       organization: "STARESO, Calvi, France",
       year: "Summer 2025",
-      description: "Supported scientific tasks for marine and coastal research activities. Conducted laboratory biometry analysis on Mediterranean Posidonia oceanica seagrass. Analyzing this vital blue carbon sink, particularly its underlying sediment (matte), provided me with highly transferable, hands-on experience in empirical carbon flux analysis.",
+      description: "Supported scientific tasks for marine and coastal research activities. Conducted laboratory biometry analysis on Mediterranean Posidonia oceanica seagrass. Analyzing this vital blue carbon sink, particularly its underlying sediment (matte), provided me with highly transferable, hands-on experience in empirical carbon flux analysis."
     },
     {
       role: "Research Assistant",
@@ -57,7 +63,7 @@ export const cvData = {
       role: "Researcher",
       organization: "National Oceanographic and Maritime Institute (NOAMI), Bangladesh",
       year: "Jan 2023 - Mar 2024",
-      description: "Conducted literature reviews and fieldwork, facilitated online and offline programs, and supported diverse research activities, including numerical modeling and GIS analysis. Helped to train internship participants from various universities and provided guidance regarding research.",
+      description: "Conducted literature reviews and fieldwork, facilitated online and offline programs, and supported diverse research activities, including numerical modeling and GIS analysis. Helped to train internship participants from various universities and provided guidance regarding research."
     },
     {
       role: "Research Assistant",
@@ -288,9 +294,9 @@ export const cvData = {
     { lat: 50.6326, lng: 5.5797, title: "University of Liège", description: "Erasmus Mundus Semester" },
     { lat: 42.5688, lng: 8.7569, title: "STARESO, Calvi", description: "Summer Internship (Marine Research)" },
     { lat: 12.946656, lng: 80.211007, title: "National Institute of Ocean Technology (NIOT)", description: "Formed November 1993, Chennai, Tamil Nadu, India; Ministry of Earth Sciences; Director: Prof. Balaji Ramakrishnan; www.niot.res.in" },
-    { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland; founded in 1640; oldest and largest university in Finland" },
+    { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland; founded in 1640; oldest and largest university in Finland" }
   ],
-gallery: [
+  gallery: [
     {
       src: "/Physical Oceanography Survey.jpeg", 
       title: "Physical Oceanography Survey",
@@ -316,5 +322,5 @@ gallery: [
       title: "Laboratory Research in Comparative Endocrinology",
       description: "Laboratory research in comparative endocrinology and endocrine disruption in aquatic animals was conducted at AZTI Pasaia, a Spanish-based international science and technology center specializing in marine environment and food research."
     }
-  ],
+  ]
 };
