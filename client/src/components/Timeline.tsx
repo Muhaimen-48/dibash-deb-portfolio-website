@@ -7,11 +7,12 @@ interface TimelineItemProps {
   date: string;
   description: string;
   location?: string; // Optional if not always available
+  link?: string; // Added this line for the link
   icon: React.ReactNode;
   isLast?: boolean;
 }
 
-function TimelineItem({ title, subtitle, date, description, icon, isLast }: TimelineItemProps) {
+function TimelineItem({ title, subtitle, date, description, link, icon, isLast }: TimelineItemProps) {
   return (
     <div className="relative flex gap-8 group">
       {/* Line */}
@@ -37,6 +38,18 @@ function TimelineItem({ title, subtitle, date, description, icon, isLast }: Time
         </div>
         <div className="text-lg text-primary font-medium mb-3">{subtitle}</div>
         <p className="text-muted-foreground leading-relaxed">{description}</p>
+        
+        {/* Learn More Link Section */}
+        {link && (
+          <a 
+            href={link} 
+            target="_blank" 
+            rel="noopener noreferrer"
+            className="inline-block mt-2 text-sm text-primary font-medium hover:underline"
+          >
+            Learn more →
+          </a>
+        )}
       </div>
     </div>
   );
@@ -57,6 +70,7 @@ export default function Timeline({ items, type }: TimelineProps) {
           subtitle={type === "education" ? item.institution : item.organization}
           date={item.year}
           description={item.description + (item.grade ? ` • ${item.grade}` : "")}
+          link={item.link} // Passed the link property here
           icon={type === "education" ? <GraduationCap className="w-5 h-5" /> : <Briefcase className="w-5 h-5" />}
           isLast={index === items.length - 1}
         />
