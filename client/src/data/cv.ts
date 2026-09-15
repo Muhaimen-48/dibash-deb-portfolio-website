@@ -15,8 +15,9 @@ export const cvData = {
     {
       degree: "Erasmus Mundus Joint Master's Degree in Marine Environment (MER2030)",
       institution: "University of Bordeaux (FRANCE), University of Basque Country (SPAIN), University of Liège (BELGIUM), University of Helsinki (FINLAND)",
-      year: "2024 – Present",
-      description: "Specialized training in marine environment conservation and management across three European universities."
+      year: "2024 – 2026",
+      grade: "Overall: ECTS B | 7.90/10 (UPV/EHU scale) • MSc Thesis: ECTS B | 15/20",
+      description: "Graduated September 2026 (120 ECTS). Specialized training in marine environment conservation and management across three European universities."
     },
     {
       degree: "Master's Thesis",
@@ -41,6 +42,12 @@ export const cvData = {
     }
   ],
   experience: [
+    {
+      role: "Research Assistant (fixed-term, full-time)",
+      organization: "Department of Geosciences and Geography, Faculty of Science, University of Helsinki, Finland",
+      year: "Sep 2026 – Oct 2026",
+      description: "Main duties: field and laboratory work in the SOFTDRINK project. Supervisor: Prof. Tom Jilbert."
+    },
     {
       role: "Program Representative (PR)",
       organization: "Erasmus Mundus Joint Master's Degree (MER2030)",
@@ -181,6 +188,12 @@ export const cvData = {
   ],
   trainings: [
     {
+      title: "12th International Baltic Earth Summer School on Climate of the Baltic Sea Region",
+      organization: "Leibniz Institute for Baltic Sea Research Warnemünde & University of Rostock",
+      year: "2026",
+      description: "Contact: markus.meier@iow.de | Baltic Earth Summer School"
+    },
+    {
       title: "Summer Internship",
       organization: "STARESO (Station de recherches sous-marines et océanographiques), Calvi, France",
       year: "2025",
@@ -293,10 +306,16 @@ export const cvData = {
     { lat: 43.2630, lng: -2.9350, title: "University of the Basque Country", description: "Erasmus Mundus Semester" },
     { lat: 50.6326, lng: 5.5797, title: "University of Liège", description: "Erasmus Mundus Semester" },
     { lat: 42.5688, lng: 8.7569, title: "STARESO, Calvi", description: "Summer Internship (Marine Research)" },
-    { lat: 12.946656, lng: 80.211007, title: "National Institute of Ocean Technology (NIOT)", description: "Formed November 1993, Chennai, Tamil Nadu, India; Ministry of Earth Sciences; Director: Prof. Balaji Ramakrishnan; www.niot.res.in" },
-    { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland; founded in 1640; oldest and largest university in Finland" }
+    { lat: 12.946656, lng: 80.211007, title: "National Institute of Ocean Technology (NIOT)", description: "Formed November 1993, Chennai, Tamil Nadu, India" },
+    { lat: 60.16953, lng: 24.95049, title: "University of Helsinki", description: "Public research university in Helsinki, Finland" },
+    { lat: 59.3293, lng: 18.0686, title: "Sweden", description: "Baltic Earth Summer School / Academic Activities" }
   ],
   gallery: [
+    {
+      src: "/Presentation_Picture.jpg", 
+      title: "Research Presentation",
+      description: "Presenting research findings and academic contributions."
+    },
     {
       src: "/Physical Oceanography Survey.jpeg", 
       title: "Physical Oceanography Survey",
