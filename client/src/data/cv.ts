@@ -312,9 +312,9 @@ export const cvData = {
   ],
   gallery: [
     {
-      src: "/Presentation_Picture.jpg", 
-      title: "Research Presentation",
-      description: "Presenting research findings and academic contributions."
+      src: "/Presentation_Picture.jpeg", 
+      title: "Presentation of MSc thesis research at MER Community Summit 2026",
+      description: "Dibash Deb presented part of his MSc thesis research at the MER Community Summit 2026, held at the University of Bordeaux, France, on 2-5 September. His talk, presented in the Innovation in Marine Science session, focused on the use of reflectance field spectroscopy for the rapid and non-destructive determination of organic carbon in Baltic Sea coastal sediments."
     },
     {
       src: "/Physical Oceanography Survey.jpeg", 
